@@ -2,7 +2,17 @@
 
 I'm Ravindra Aditya Singh, A software engineer who specializes in distributed systems, machine learning and cybersecurity. That sounds like a tall order but I have spent my years in academia and professional settings such as Adobe, Shell honing these skills.
 
+I have approximately 3 years of experience in professional settings with my experience focusing on backend and machine learning in specific with a wider focus on cybersecurity as well.
+
+
 You will find my project repositories below along with some passion projects.
+I have pinned the important projects and created Readmes for each of them.
+I also have detailed articles on my website:
+          
+          www.ravindraadityasingh.com
+
+
+
 Feel free to reach out to me if you have any questions.
 
 
