@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Ravindra Aditya Singh, A software engineer who specializes in distributed systems, machine learning and cybersecurity. That sounds like a tall order but I have spent my years in academia and professional settings such as Adobe, Shell honing these skills.
+
+You will find my project repositories below along with some passion projects.
+Feel free to reach out to me if you have any questions.
+
+
 <!--
 **AdityaSingh97/AdityaSingh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
